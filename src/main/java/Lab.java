@@ -15,5 +15,9 @@ public class Lab {
      */
     public void throwUncheckedException(){
 
+    throw new ArithmeticException("divisor cannot be zero");
+
     }
 }
+
+    
